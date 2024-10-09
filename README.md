@@ -1,4 +1,4 @@
-# Covid19-Moral-Hazard
+# Covid-19-visualisation
 ## Introduction
 The short report contained in this repository is an exploration of Covid-19 data intended for practice in data visualisation. Using visual comparisons of the UK and the UAE, I have light-heartedly explored the possibility for evidence of moral hazard in the dataset. 
 
